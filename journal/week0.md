@@ -7,11 +7,11 @@ We started by learning about the importance of gathering requirements before sta
 # Conceptual Design (Napkin)
 Next, we learned about the conceptual design phase, where we use simple sketches or diagrams to visualize the high-level structure of the project. This phase is also referred to as the "napkin phase" as the designs are usually created on a napkin or a piece of paper.
 
-# Local Design (Blue Print)
-We then learned about the local design phase, where we create a more detailed blueprint of the project. This includes adding more detail to the conceptual design and determining the necessary components and their relationships.
+# Logical Design (Blue Print)
+We then learned about the logical design phase, where we create a more detailed blueprint of the project. This includes adding more detail to the conceptual design and determining the necessary components and their relationships.
 
-# Logical Design (Resource names)
-The logical design phase involves determining the resource names and the relationships between the resources. This phase helps in creating a clear and concise picture of the architecture and helps in identifying any potential issues.
+# Physical Design (Resource names)
+The physical design phase involves determining the resource names and the relationships between the resources. This phase helps in creating a clear and concise picture of the architecture and helps in identifying any potential issues.
 
 # Ask Dumb Questions (Risks, Assumptions, Constraints)
 During the bootcamp, we also learned about the importance of asking dumb questions. This involves asking questions about the risks, assumptions, and constraints of the project to ensure that nothing is overlooked.
