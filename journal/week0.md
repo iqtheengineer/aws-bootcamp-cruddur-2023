@@ -33,4 +33,9 @@ For the homework, we were asked to draw a conceptual design on a napkin or creat
 
 In conclusion, the first week of the AWS Cloud Project Bootcamp was a fantastic experience. We learned about the billing and architecture aspects of AWS and various other critical elements of project design and implementation. I am looking forward to the upcoming weeks, where we will dive deeper into the technical aspects of AWS and build our app.
 
+- Link to the conceptual design: https://lucid.app/lucidchart/abf2382d-3556-456c-8eec-cb938e1c1be4/edit?viewport_loc=-476%2C-6%2C2503%2C1257%2C0_0&invitationId=inv_601ddd1b-3c48-4a64-ac24-1eee3cf6bb4c
+- Link to the logical design: https://lucid.app/lucidchart/f29bca3e-c1f9-4909-829c-83ca217ad154/edit?viewport_loc=-254%2C140%2C2503%2C1258%2C0_0&invitationId=inv_c19fd708-83f0-42ee-ab0d-40477b8667b6
+
 *Stay tuned for more updates on the AWS Cloud Project Bootcamp with Andrew Brown!
+
+
